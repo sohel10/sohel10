@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/sohel10/sohel10/images.png" width="100%"/>
 </p>
 
 # Hi 👋, I'm Sohel Ahmed
