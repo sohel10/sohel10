@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data1.png" width="50%"/>
+  <img src="data1.png" width="75%"/>
 </p>
 # Hi 👋, I'm Sohel Ahmed
 🎯 Data Scientist | ML Engineer | Scalable ML Systems
