@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sohel10/sohel10/images.png" width="100%"/>
+  <img src="images.png" width="50%"/>
 </p>
 
 # Hi 👋, I'm Sohel Ahmed
-
 🎯 Data Scientist | ML Engineer | Scalable ML Systems
-# Hi 👋, I'm Sohel Ahmed
 ![Profile Views](https://komarev.com/ghpvc/?username=sohel10)
 
 🎯 Data Scientist | ML Engineer | Scalable ML Systems
