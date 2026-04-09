@@ -8,7 +8,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sohel10)
 
 ## 🚀 About Me
-
+Building production-scale ML systems from data ingestion to real-time deployment.
 I am a Lead Statistician &  Data Scientist at the University of Michigan with **8+ years of experience** building **production-scale machine learning systems** across healthcare, NLP, and large-scale data platforms.
 
 💡 I specialize in:
