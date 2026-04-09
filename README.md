@@ -65,7 +65,7 @@ I am a Lead Statistician &  Data Scientist at the University of Michigan with **
 - Production-grade ML systems  
 - Scalable data pipelines  
 - Cloud-based AI solutions  
-- Real-world healthcare & industrial applications  
+- Real-world industrial and data-driven applications  
 
 ---
 
