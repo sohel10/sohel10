@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="images.png" width="100%"/>
+</p>
+
 # Hi 👋, I'm Sohel Ahmed
 
+🎯 Data Scientist | ML Engineer | Scalable ML Systems
+# Hi 👋, I'm Sohel Ahmed
 ![Profile Views](https://komarev.com/ghpvc/?username=sohel10)
 
 🎯 Data Scientist | ML Engineer | Scalable ML Systems
