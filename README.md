@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sohel10)
 
-🎯 Senior Data Scientist | ML Engineer | Healthcare & Scalable AI Systems  
+🎯 Data Scientist | ML Engineer | Scalable ML Systems
 📍 Michigan, USA  
 
 ---
@@ -37,11 +37,6 @@ I am a Lead Statistician &  Data Scientist at the University of Michigan with **
 
 ---
 
-### 🔹 Production Multi-Model Prediction System
-- Built **multi-model XGBoost system** for vehicle price prediction  
-- Designed scalable architecture for multiple segments (SUV, EV, Truck)  
-- Improved prediction stability across categories  
-- End-to-end ML system with deployment-ready design  
 
 ---
 
