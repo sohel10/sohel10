@@ -10,8 +10,9 @@
 ## 🚀 About Me
 Building production-scale ML systems from data ingestion to real-time deployment.
 I am a Lead Statistician &  Data Scientist at the University of Michigan with **8+ years of experience** building **production-scale machine learning systems** across healthcare, NLP, and large-scale data platforms.
-🔹 ⚡ Production ML Forecasting System (Live Deployment)
-🌐 Live Demo: https://energyforecastai.org/
+
+## ⚡ Production ML Forecasting System (Live Deployment)
+# 🌐 Live Demo: https://energyforecastai.org/
 📂 GitHub: https://github.com/sohel10/energy-forecasting-ml-system
 Built an end-to-end production ML system: data ingestion → feature engineering → forecasting → API → monitoring
 Ingests real-time data via APIs (e.g., city-level data such as Houston) and supports forecasting for any location
