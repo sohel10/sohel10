@@ -14,13 +14,42 @@ I am a Lead Statistician &  Data Scientist at the University of Michigan with **
 ## ⚡ Production ML Forecasting System (Live Deployment)
 # 🌐 Live Demo: https://energyforecastai.org/
 📂 GitHub: https://github.com/sohel10/energy-forecasting-ml-system
-Built an end-to-end production ML system: data ingestion → feature engineering → forecasting → API → monitoring
-Ingests real-time data via APIs (e.g., city-level data such as Houston) and supports forecasting for any location
-Developed time-series forecasting models (SARIMAX) for real-time energy prediction
-Deployed using FastAPI + Docker + AWS EC2 with scalable architecture
-Implemented low-latency inference (<300 ms) and real-time dashboards (Chart.js)
-Integrated PostgreSQL + Prometheus + Grafana for storage and monitoring
-Designed system to be location-agnostic and extensible to multiple cities
+
+Built production-grade ML system predicting electricity demand 
+24 hours ahead across 20 Michigan cities (9.8M population).
+
+Technical Architecture:
+- Data Ingestion: Real-time weather API integration 
+  (OpenWeatherMap) for 20 cities
+- Feature Engineering: Temporal features, lag features, 
+  rolling averages for time-series
+- Model: XGBoost with recursive 24-hour forecasting 
+  (85%+ accuracy, RMSE: 0.35 kWh)
+- API: FastAPI with REST endpoints 
+  (<100ms response time)
+- Deployment: Docker containerization, AWS EC2, 
+  GitHub Actions CI/CD
+- Monitoring: PostgreSQL, Prometheus, Grafana dashboards
+- Infrastructure: Cost-optimized t2.micro 
+  (~$12/month total)
+
+Key Features:
+✓ Handles 20 concurrent city forecasts simultaneously
+✓ Real-time predictions with <100ms latency
+✓ Production-ready with health checks & automated deployments
+✓ Extensible architecture (easily scales to other regions)
+✓ Domain-aware constraints (non-negative predictions, baseline loads)
+
+Business Impact:
+Potential $6-16M annual savings for medium utilities through 
+optimized grid capacity planning and reduced emergency power 
+purchases (based on industry research).
+
+💡 I specialize in:
+- End-to-end ML systems (data ingestion → modeling → production)
+- Production ML deployment (FastAPI, Docker, AWS, CI/CD)
+- Time-series forecasting with domain constraints
+- Building scalable, cost-effective systems
 
 💡 I specialize in:
 - Designing **end-to-end ML systems** (data → model → deployment)
