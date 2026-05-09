@@ -64,28 +64,44 @@ Deployed production ML system predicting electricity demand 24 hours ahead acros
 
 ### 2️⃣ 🧠 **Clinical LLM Chatbot with RAG** (Production System)
 
-**📂 GitHub:** [Add your clinical LLM repo link here]
+2️⃣ 🧠 Clinical RAG Assistant (Production System - LIVE)
+🌐 Live Demo: https://clinicalenergyforecastai.org/
+📂 GitHub: https://github.com/sohel10/clinicalnote-ai-mimic-iv
 
-Production-grade clinical NLP system combining LLMs with retrieval-augmented generation (RAG) for healthcare applications.
+Production-grade Retrieval-Augmented Generation system analyzing 130M+ de-identified clinical 
+notes using Bio_ClinicalBERT embeddings and LLaMA 3 for healthcare applications.
 
-**What I Built:**
+What I Built:
 
-| Component | Technology | Scale |
-|-----------|-----------|-------|
-| **Data Processing** | PySpark distributed pipelines | 130M+ clinical notes |
-| **Embeddings** | ClinicalBERT + FAISS | Medical domain optimized |
-| **RAG System** | Vector search + LLM retrieval | Context-aware responses |
-| **LLM Integration** | OpenAI/LLaMA with prompt engineering | Production inference |
-| **API** | FastAPI with async handlers | 1.3-4.0s latency |
-| **Deployment** | Docker + AWS EC2 + CI/CD | Monitoring & logging |
+Component	Technology	Scale
+Data Processing	PySpark distributed pipelines	130M+ clinical notes (MIMIC-IV)
+Embeddings	Bio_ClinicalBERT + FAISS	951,725 vectors, medical domain optimized
+RAG System	Vector search + LLM retrieval	<2.6s latency (242ms embed + 68ms retrieve + 2,312ms inference)
+LLM Integration	LLaMA 3 with LangChain orchestration	Production inference with prompt optimization
+Monitoring	Prometheus + Grafana	Real-time latency & performance tracking
+Deployment	Docker + AWS EC2	Automated CI/CD, health checks
+Governance	HIPAA-aware architecture	Access controls, audit trails, compliance-ready
 
-**Key Achievements:**
-✓ Processed 130M+ clinical documents with PySpark  
-✓ Built RAG system for accurate, evidence-based responses  
-✓ Optimized inference pipeline (1.3-4.0s with retrieval)  
-✓ Production-ready with monitoring & error handling  
-✓ HIPAA-aware architecture for healthcare compliance  
+Key Achievements:
+✓ 951,725 FAISS vectors from 130M+ clinical documents
+✓ Bio_ClinicalBERT for biomedical domain specificity
+✓ Sub-3-second end-to-end response latency
+✓ Production LLMOps with Prometheus/Grafana monitoring
+✓ Governance-aware design for healthcare compliance
+✓ Live, testable product (not just prototype)
 
+Technical Highlights:
+
+Clinical BERT embeddings for medical terminology
+FAISS vector database optimized for fast retrieval
+Distributed PySpark processing for 130M+ records
+LangChain multi-turn conversation management
+Confidence scoring & retrieval evaluation
+Production monitoring for model drift & quality assurance
+
+Business Impact:
+🏥 Enables faster clinical decision support and knowledge retrieval for healthcare professionals
+🏥 Demonstrates ability to ship production GenAI systems with full LLMOps
 **Technical Highlights:**
 - Clinical BERT embeddings for medical terminology
 - FAISS vector database for fast retrieval
