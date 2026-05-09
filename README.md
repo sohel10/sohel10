@@ -27,7 +27,7 @@ I build **end-to-end production ML systems** that solve real business problems a
 
 ### 1️⃣ ⚡ **Production ML Forecasting System** (Live Deployment)
 
-**🌐 Live Demo:** https://energyforecastai.org/  
+## 🌐 Live Demo:** https://energyforecastai.org/  
 **📂 GitHub:** https://github.com/sohel10/energy-forecasting-ml-system
 
 Deployed production ML system predicting electricity demand 24 hours ahead across 20 Michigan cities (9.8M population coverage).
