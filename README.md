@@ -63,7 +63,7 @@ Deployed production ML system predicting electricity demand 24 hours ahead acros
 ---
 
 ### 2️⃣ 🧠 **Clinical LLM Chatbot with RAG**  (Production System - LIVE)
-# 🌐 Live Demo: https://clinicalenergyforecastai.org/
+## 🌐 Live Demo: https://clinicalenergyforecastai.org/
 📂 GitHub: https://github.com/sohel10/clinicalnote-ai-mimic-iv
 
 Production-grade Retrieval-Augmented Generation system analyzing 130M+ de-identified clinical 
