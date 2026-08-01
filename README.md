@@ -10,6 +10,7 @@
 
 ---
 
+
 ## 🎯 About Me
  
 I design, build, and deploy **end-to-end production ML systems** that improve patient outcomes and drive measurable clinical impact. From data engineering to real-time inference, I specialize in taking healthcare AI from prototype to production at scale.
@@ -269,6 +270,7 @@ The biggest gap in healthcare AI is between research models and clinical product
 📧 **Email:** sohelcu06@gmail.com  
 📱 **Phone:** 607-262-3293  
  
+---
  
 ## 💡 Let's Work Together
  
@@ -278,14 +280,9 @@ I'm always interested in:
 - Projects that drive real patient outcomes
 - Discussing how to build AI systems that actually matter in healthcare
 Message me on LinkedIn or email—let's talk! 🚀
-
+ 
+---
+ 
 <p align="center">
   ⭐ If you find my work interesting, feel free to star my repositories and connect!
-</p>
-- **Remote/Hybrid:** Flexible arrangements
-
----
-
-<p align="center">
-  ⭐ If you find my work interesting, feel free to star my repositories!
 </p>
