@@ -13,7 +13,7 @@
 
 ## 🎯 About Me
  
-I design, build, and deploy **end-to-end production ML systems** that improve patient outcomes and drive measurable clinical impact. From data engineering to real-time inference, I specialize in taking healthcare AI from prototype to production at scale.
+I design, build, and deploy **end-to-end production ML systems** that improve patient outcomes and drive measurable impact. From data engineering to real-time inference, I specialize in taking healthcare AI and differenet domain from prototype to production at scale.
  
 **Core Focus:**
 - 🏥 **Predictive Healthcare Analytics** (readmission, mortality, risk stratification)
@@ -47,7 +47,7 @@ Production ML system predicting 30-day hospital readmission risk for heart failu
  
 **Key Achievements:**
 ✓ 67.8% AUC on held-out test set (42K patient cohort)  
-✓ Identifies high-risk patients **14 days before readmission**  
+✓ Identifies high-risk patients **30 days before readmission**  
 ✓ Production-ready with health checks, error handling, validation  
 ✓ Real-time inference for clinical teams  
 ✓ Comprehensive monitoring & observability  
@@ -111,7 +111,7 @@ Production-grade Retrieval-Augmented Generation (RAG) system analyzing 130M+ de-
 - HIPAA-compliant architecture with audit logging
 ---
  
-## 🛠️ Tech Stack (Healthcare-Focused)
+## 🛠️ Tech Stack 
  
 **Languages:** Python (expert), SQL (expert), R, SAS, Stata  
  
@@ -234,14 +234,12 @@ Research focus: Healthcare informatics, machine learning in clinical systems, da
 - Published in: Scientific Reports (96th percentile), PNAS, Nature
 - Focus: Healthcare AI, clinical prediction, ML in regulated environments, causal inference, responsible AI
 **Teaching:**
-- Adjunct Lecturer, Central Michigan University MPH Program
+- Adjunct Lecturer, Online MPH Program
 - Courses: Research Methods in Public Health (MPH 648), Data Science for Health Outcomes (MPH 667)
 - Mentoring: Junior data scientists in healthcare ML and analytics
----
  
 ## 💡 Philosophy
  
-Healthcare AI must be:
 - **Clinically Grounded** — Built on deep understanding of clinical workflows
 - **Outcome-Focused** — Measured by patient impact, not just model metrics
 - **Production-Ready** — Live systems with monitoring, not research papers alone
@@ -249,18 +247,7 @@ Healthcare AI must be:
 - **End-to-End Owned** — Responsibility from data through deployment and operations
 - **Evidence-Based** — Grounded in causal inference and statistical rigor
 - **Collaborative** — Built with clinicians, data teams, and stakeholders
-The biggest gap in healthcare AI is between research models and clinical products. I close that gap by combining scientific rigor with production engineering and real healthcare domain expertise.
- 
----
- 
-## 🎯 Open To
- 
-- **Full-time roles:** Lead Data Scientist, Senior ML Engineer, Director of Data Science (healthcare focus)
-- **Focus areas:** Healthcare AI, clinical prediction, GenAI/RAG, causal inference, MLOps
-- **Organizations:** Health systems (Mayo, Cleveland Clinic, Stanford), health insurers (UnitedHealth, Anthem), healthcare AI companies, biotech
-- **Work arrangement:** Remote/Hybrid/On-site roles across US
----
- 
+  
 ## 📫 Connect With Me
  
 🔗 **LinkedIn:** https://www.linkedin.com/in/sohelcu06/  
@@ -268,10 +255,7 @@ The biggest gap in healthcare AI is between research models and clinical product
 🌐 **Portfolio:** https://heart.energyforecastai.org/ | https://clinical.energyforecastai.org/  
  
 📧 **Email:** sohelcu06@gmail.com  
-📱 **Phone:** 607-262-3293  
- 
----
- 
+  
 ## 💡 Let's Work Together
  
 I'm always interested in:
@@ -281,7 +265,6 @@ I'm always interested in:
 - Discussing how to build AI systems that actually matter in healthcare
 Message me on LinkedIn or email—let's talk! 🚀
  
----
  
 <p align="center">
   ⭐ If you find my work interesting, feel free to star my repositories and connect!
